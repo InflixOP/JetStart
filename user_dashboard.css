@@ -1,0 +1,202 @@
+.header{
+    background-color: #11111d;
+    height: 100px;
+    width: 1500px;
+    border-radius: 30px;
+    position: absolute;
+    padding-top: 15px;
+}
+#jetstart{
+    color: #f83403;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+body{
+    background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+.tab{
+    color: white;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+.tools{
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#icon{
+    position: absolute;
+    top: 45px;
+    left: 1200px;
+}
+#name{
+    border: none;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    border-radius: 15px;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 1280px;
+    height: 40px;
+    width: 100px;
+    padding-left: 40px;
+    font-size: larger;
+}
+#form{
+    position: absolute;
+    top: 0px;
+    color: white;
+}
+#username{
+    position: absolute;
+    left: 85px;
+    top: 200px;
+    border-radius: 10px;
+    background-color: #d9d9d9;    
+}
+#uu{
+    position: absolute;
+    top: 200px;
+}
+#submit{
+    position: absolute;
+    top: 235px;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 70px;
+}   
+#submit:hover{
+    transform: scale(1.05);
+}
+#data{
+    color: white;
+    position: absolute;
+    top: 400px;
+    border-spacing: 40px;
+    left: 240px;
+}
+.row{
+    background-color: #2a2a42;
+}
+#nn{
+    width: 140px;
+    border-radius: 20px;
+}
+#dat{
+    color: white;
+    position: absolute;
+    top: 800px;
+    border-spacing: 60px;
+    left: 540px;
+}
+.rr{
+    background-color: #2a2a42;
+}
+#ab{
+    width: 140px;
+    border-radius: 20px;
+}
+#bc{
+    width: 140px;
+    border-radius: 20px;
+}
+#age{
+    width: 90px;
+    border-radius: 20px;
+}
+#phone{
+    width: 90px;
+    border-radius: 20px;
+}
+#mail{
+    width: 90px;
+    border-radius: 20px;
+}
+#domain{
+    width: 90px;
+    border-radius: 20px;
+}
+#exp{
+    width: 90px;
+    border-radius: 20px;
+}
+#salary{
+    width: 90px;
+    border-radius: 20px;
+}
+#welcome{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+#z{
+    color: white;
+    position: absolute;
+    top: 194px;
+    left: 730px;
+    font-size: 30px;
+}
+#profile{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 110px;
+    height: 40px;
+    top: 300px;
+    left: 730px;
+    border-radius: 10px;
+    font-size: large;
+}
+#offer{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 210px;
+    height: 40px;
+    top: 680px;
+    left: 690px;
+    border-radius: 10px;
+    font-size: large;
+}
+#aa{
+    width: 90px;
+    border-radius: 20px;
+}
+#bb{
+    width: 90px;
+    border-radius: 20px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+a {
+    color: white;
+    text-decoration: none;
+}
+#logout{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    top: 45px;
+    left: 1390px;
+    border-radius: 15px;
+    font-size: large;
+}
+#submit:hover{
+    transform: scale(1.05);
+}
+

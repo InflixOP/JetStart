@@ -1,0 +1,125 @@
+.header{
+    background-color: #11111d;
+    height: 100px;
+    width: 1515px;
+    border-radius: 30px;
+    position: absolute;
+    padding-top: 15px;
+}
+#jetstart{
+    color: #f83403;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+body{
+    background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+.tab{
+    color: white;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+.tools{
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#icon{
+    position: absolute;
+    top: 45px;
+    left: 1200px;
+}
+#name{
+    border: none;
+    border: 3px solid red;
+    color: white;
+    position: absolute;
+    top: 245px;
+    left: 590px;
+    height: 90px;
+    width: 400px;
+    padding-left: 18px;
+    font-size: 40px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+a {
+    color: white;
+    text-decoration: none;
+}
+#logout{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    top: 45px;
+    left: 1390px;
+    border-radius: 15px;
+    font-size: large;
+}
+#logout:hover{
+    transform: scale(1.05);
+}
+#founder{
+    border: none;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    border-radius: 15px;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 1250px;
+    height: 40px;
+    width: 130px;
+    padding-left: 40px;
+    font-size: larger;
+}
+#mark{
+    position: absolute;
+    color: white;
+    left: 100px;
+    top:200px;
+    font-size: 40px;
+}
+#ddd{
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    position: absolute;
+    top: 210px;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    color: white;
+    left: 700px;
+    width: 150px;
+}
+.d1d1{
+    padding-left: 28px;
+    font-size: 30px;
+}
+.domain{
+    position: absolute;
+    top: 6px;
+    left: 160px;
+    font-size: 23px;
+}
+#z11{
+    color: white;
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    border-spacing: 40px;
+}
+.z22{
+    background-color: #2a2a42;
+}
+#ab{
+    width: 140px;
+    border-radius: 20px;
+}

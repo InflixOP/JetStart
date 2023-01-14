@@ -1,0 +1,149 @@
+#pic1{    /* boy sitting on table */
+    float: right;
+    height: 450px;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+.header{
+ background-color: #11111d;
+ height: 100px;
+ width: 1500px;
+ border-radius: 30px;
+ position: absolute;
+ padding-top: 15px;
+}
+#jetstart{
+    color: #f83403;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.tab{
+    color: white;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+.tools{
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.sign{
+    float: right;
+    margin-top: 30px;
+    margin-right: 160px;
+    border-radius: 10px;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border: 0;
+    font-size: 15px;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+}
+.sign:hover{
+    height: 38px;
+    width: 90px;
+    background-image: linear-gradient(to right,  #da210f, #fec600);
+    transform: scale(1.05);
+}
+#log{
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+#a{
+    font-size: 26px;
+    color: white;
+    position: absolute;
+    left: 280px;
+    top: 200px;
+}
+p{
+    color: white;
+    position: absolute;
+    top: 350px;
+    left: 280px;
+    word-spacing: 10px;
+    font-size: 25px;
+}
+body{
+    background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#getstarted{
+    position: absolute;
+    top: 500px;
+    left: 340px;
+    height: 70px;
+    width: 300px;
+    font-size: 30px;
+    border-radius: 24px;
+}
+#sj{
+    color: white;
+    font-size: 25px;
+    word-break: 10px;
+    position: absolute;
+    top: 700px;
+    left: 280px;
+}
+#apply{
+    position: absolute;
+    top: 668px;
+    left: 780px;
+    width: 100px;
+}
+#toolsoffer{
+    position: absolute;
+    top: 900px;
+    color: white;
+    font-size: 50px;
+    left: 590px;
+    word-spacing: 10px;
+}
+#info1{
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+}
+#info2{
+    position: absolute;
+    top: 1000px;
+    left: 450px;
+}
+#info3{
+    position: absolute;
+    top: 1000px;
+    left: 800px;
+}
+#info4{
+    position: absolute;
+    top: 1000px;
+    left: 1150px;
+}
+#info5{
+    position: absolute;
+    top: 1500px;
+    left: 100px;
+}
+#info9{
+    position: absolute;
+    top: 1500px;
+    left: 1100px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+#usersign{
+    position: absolute;
+    left: 900px;
+    top: 668px;
+}

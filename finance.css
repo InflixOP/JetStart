@@ -1,0 +1,139 @@
+.header{
+    background-color: #11111d;
+    height: 100px;
+    width: 1515px;
+    border-radius: 30px;
+    position: absolute;
+    padding-top: 15px;
+}
+#jetstart{
+    color: #f83403;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+body{
+    background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+.tab{
+    color: white;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+.tools{
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#icon{
+    position: absolute;
+    top: 45px;
+    left: 1200px;
+}
+#name{
+    border: none;
+    color: white;
+    position: absolute;
+    top: 245px;
+    left: 590px;
+    height: 90px;
+    width: 400px;
+    padding-left: 18px;
+    font-size: 40px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+a {
+    color: white;
+    text-decoration: none;
+}
+#logout{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    top: 45px;
+    left: 1390px;
+    border-radius: 15px;
+    font-size: large;
+}
+#logout:hover{
+    transform: scale(1.05);
+}
+#org{
+    position: absolute;
+    left: 80px;
+    top: 400px;
+}
+#hire{
+    position: absolute;
+    left: 440px;
+    top: 400px;
+}
+#finance{
+    position: absolute;
+    left: 800px;
+    top: 400px;
+}
+#marketing{
+    position: absolute;
+    left: 1160px;
+    top: 400px;
+}
+#founder{
+    border: none;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    border-radius: 15px;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 1250px;
+    height: 40px;
+    width: 130px;
+    padding-left: 40px;
+    font-size: larger;
+}
+#mark{
+    position: absolute;
+    color: white;
+    left: 100px;
+    top:200px;
+    font-size: 40px;
+}
+#bbb{
+    position: absolute;
+    top: 216px;
+    background-color: #2e2d2d;
+    border: none;
+    border-radius: 10px;
+    left: 600px;
+    height: 24px;
+    color: white;
+}
+#zzz{
+    position: absolute;
+    top: 215px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    width: 160px;
+    left: 800px;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+}
+#abc{
+    color: white;
+    position: absolute;
+    top: 280px;
+    left: 380px;
+    border-spacing: 100px;
+}
+.cba{
+    background-color: #2a2a42;
+}

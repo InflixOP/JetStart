@@ -1,0 +1,181 @@
+.header{
+    background-color: #11111d;
+    height: 100px;
+    width: 1515px;
+    border-radius: 30px;
+    position: absolute;
+    padding-top: 15px;
+}
+#jetstart{
+    color: #f83403;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+body{
+    background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+.tab{
+    color: white;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+.tools{
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#icon{
+    position: absolute;
+    top: 45px;
+    left: 1200px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+#founder{
+    border: none;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    border-radius: 15px;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 1250px;
+    height: 40px;
+    width: 130px;
+    padding-left: 40px;
+    font-size: larger;
+}
+#logout{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    top: 45px;
+    left: 1390px;
+    border-radius: 15px;
+    font-size: large;
+}
+#logout:hover{
+    transform: scale(1.05);
+}
+#app{
+    background-image: linear-gradient(to right, #da210f, #fec600); 
+    position: absolute;
+    border: none;
+    color: white;
+    width: 150px;
+    height: 40px;
+    top: 160px;
+    left: 720px;
+    border-radius: 15px;
+    font-size: large;  
+}
+.h{
+    background-color: #11111d;
+    height: 100px;
+    width: 1515px;
+    border-radius: 30px;
+    position: absolute;
+    padding-top: 15px;
+    top: 130px;
+}
+.filter{
+    background-color: white;
+}
+#input{
+    position: absolute;
+    top: 400px;
+}
+.name{
+    position: absolute;
+    top: 0px;
+    left: 130px;
+    border: none;
+    height: 20px;
+    background-color: #2e2d2d;
+    border-radius: 10px;
+    color: white;
+}
+.a1{
+    background-color: #2e2d2d;
+    border: none;
+    width: 100px;
+    border-radius: 12px;
+}
+.dd{
+    color: white;
+    position: absolute;
+    left: 70px;
+}
+#name{
+    position: absolute;
+    top: 0px;
+    margin-left: 3px;
+    left: 470px;
+}
+#dd{
+    color: white;
+    position: absolute;
+    left: 390px;
+    top: 0px;
+}
+#ss{
+    position: absolute;
+    top: 0px;
+    margin-left: 3px;
+    left: 670px;
+    width: 150px;
+    color: white;
+}
+#nn{
+    color: white;
+    position: absolute;
+    left: 790px;
+    top: 0px;
+}
+#yz{
+    position: absolute;
+    background-color: #da210f;
+}
+#submit{
+    position: absolute;
+    left: 1100px;
+    border-radius: 20px;
+    height: 35px;
+    width: 120px;
+    border: 0px;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    font-size: large;
+    top: 00px;
+    color: white;
+}
+#t1{
+    color: white;
+    position: absolute;
+    top: 430px;
+    border-spacing: 100px;
+    left: 50px;
+}
+.t2{
+    background-color: #2a2a42;
+}
+#app1{
+    position: absolute;
+    left: 1300px;
+    top: 400px;
+    border-radius: 20px;
+    height: 35px;
+    width: 120px;
+    border: 0px;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    font-size: large;
+    color: white; 
+}

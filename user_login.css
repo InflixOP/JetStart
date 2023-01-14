@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+form{
+    color: black;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 78px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    background-color: #d9d9d9;
+    left: 480px;
+    border-radius: 25px;
+    border: 5px solid #da210f;
+    width: 469px;
+    height: 368px;
+    top: 75px;
+    font-size: 20px;
+}
+#submit{
+    position: absolute;
+    left: 230px;
+    border-radius: 20px;
+    height: 35px;
+    width: 120px;
+    border: 0px;
+    background-image: linear-gradient(to right, #da210f, #fec600);
+    font-size: large;
+    top: 250px;
+    color: white;
+}
+#submit:hover{
+    transform: scale(1.05);
+}
+.name{
+    border-radius: 10px;
+    border: 0px;
+    height: 25px;
+    width: 300px;
+}
+.a{
+    position: absolute;
+    top: 120px;
+}
+#signup{
+    position: absolute;
+    color: black;
+    left: 650px;
+    top: 400px;
+    font-size: 18px;
+}
